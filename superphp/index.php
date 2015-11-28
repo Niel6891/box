@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>歡迎超級建宏</title>
+  <title>建宏成功了</title>
 
 <style>
 
